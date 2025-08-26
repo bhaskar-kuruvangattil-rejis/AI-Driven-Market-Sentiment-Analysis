@@ -307,3 +307,11 @@ curl -X POST http://localhost:8000/api/v1/analyze \
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## Examples
+
+```python
+# Basic usage example
+print("Hello, World!")
+```
+
